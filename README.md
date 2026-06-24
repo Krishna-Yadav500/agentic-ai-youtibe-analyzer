@@ -4,11 +4,10 @@ Takes a YouTube link and returns a timestamped breakdown of the video — pulls 
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![Agno](https://img.shields.io/badge/Agno-agentic_framework-7C3AED?style=flat-square)](https://agno.com)
-[![Groq](https://img.shields.io/badge/Groq-qwen3--32b-F55036?style=flat-square)](https://groq.com)
 [![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
-**[Live demo →]()**
+**[Live demo →](https://agentic-ai-youtibe-analyzer-6pdoiztalyxb3whazqbmmy.streamlit.app/)**
 
 ## What it does
 
